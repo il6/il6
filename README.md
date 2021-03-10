@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![visitors](https://page-views.glitch.me/badge?page_id=il6.visitor-badge)
+
+
 **il6/il6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
