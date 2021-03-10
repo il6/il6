@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on `Go Language` 🚀💙
 - 🌱 I’m currently learning Floriography
 - 👯 I’m looking to collaborate on a Go Open-Source project! ✌😁
-- 🤔 I’m looking for help with, Meanwhile Nothing rocket 🚀 | Coming Soon 😉
+- 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
 - 💬 Ask me about nothing
 - 📫 How to reach me: send me an email
 - 😄 Pronouns: He/Him
