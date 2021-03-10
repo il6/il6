@@ -1,4 +1,4 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=il6&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=il6&count_private=true&show_icons=true)
 ![visitors](https://page-views.glitch.me/badge?page_id=il6.visitor-badge)
 
 ### Hi there 👋
