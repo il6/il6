@@ -1,12 +1,10 @@
+
+### Hi there 👋
+**Thanks for visiting my GitHub profile, it's great to meet you here!** ✨😊✨
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=il6&count_private=true&show_icons=true&theme=radical&include_all_commits=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=il6&layout=compact)  
 ![visitors](https://page-views.glitch.me/badge?page_id=il6.visitor-badge)  
-
-### Hi there 👋
-
-
-
-**il6/il6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
