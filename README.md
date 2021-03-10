@@ -1,5 +1,6 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=il6&count_private=true&show_icons=true&theme=radical&include_all_commits=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=il6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=il6&count_private=true&show_icons=true&theme=radical&include_all_commits=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=il6&layout=compact)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=il6)
 ![visitors](https://page-views.glitch.me/badge?page_id=il6.visitor-badge)
 
 ### Hi there 👋
