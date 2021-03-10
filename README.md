@@ -1,6 +1,8 @@
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=il6)
+![visitors](https://page-views.glitch.me/badge?page_id=il6.visitor-badge)
+
 ### Hi there 👋
 
-![visitors](https://page-views.glitch.me/badge?page_id=il6.visitor-badge)
 
 
 **il6/il6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=il6)
+
+Nicolás Bevacqua is a Principal Software Engineer at [Elastic](https://elastic.co). As the published author of several JavaScript books ([JavaScript Application Design, Manning 2015](https://amzn.to/2Zbo5JY); [Practical Modern JavaScript, O'Reilly 2017](https://amzn.to/3efm5F5); [Mastering Modular JavaScript, O'Reilly 2018](https://amzn.to/2W5bvtR)) and the editor of [Pony Foo](https://ponyfoo.com), Nicolás has experience not only in working on JavaScript problems, but also in sharing his applied learning with others. You can find him on Twitter as [@nzgb](https://twitter.com/nzgb), and — if you're into cooking — on Instagram as [@nbevacqua](https://www.instagram.com/nbevacqua/).
