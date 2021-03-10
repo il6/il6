@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:  
 
-- 💻 I’m a Principal Software Engineer at Epiioneo Limited
-- 🎓 I studied at Shahjalal University of Science and Technology (SUST)
+- 💻 I’m a Principal Software Engineer at `Epiioneo Limited`
+- 🎓 I studied at Shahjalal University of Science and Technology (`SUST`)
 - 🧑‍💻 Coding is my passion
 - 🔭 I’m currently working on `Go Language` 🚀💙
 - 🌱 I’m currently learning Floriography
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: send me an email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love 6
+- ⚡ Fun fact: `I love 6`
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=il6&count_private=true&show_icons=true&theme=radical&include_all_commits=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=il6&layout=compact)  
