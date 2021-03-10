@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 **Thanks for visiting my GitHub profile, it's great to meet you here!** ✨😊✨
-Here are some ideas to get you started:
+
+Here are some ideas to get you started:  
 
 - 💻 I’m a Principal Software Engineer at Epiioneo Limited
 - 🎓 I studied at Shahjalal University of Science and Technology (SUST)
