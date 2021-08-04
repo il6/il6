@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:  
 
-- 💻 I’m a Principal Software Engineer at `Epiioneo Limited`
+- 💻 I’m a Principal Software Engineer at `Hackules Limited`
 - 🎓 I studied at Shahjalal University of Science and Technology (`SUST`)
 - 🧑‍💻 Coding is my passion
 - 🔭 I’m currently working on `Go Language` 🚀💙
