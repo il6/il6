@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:  
 
-- 💻 I’m a Principal Software Engineer at `Hackules Limited`
+- 💻 I’m a AI Engineer at `Hackules Limited`
 - 🎓 I studied at Shahjalal University of Science and Technology (`SUST`)
 - 🧑‍💻 Coding is my passion
-- 🔭 I’m currently working on `Go Language` 🚀💙
+- 🔭 I’m currently working on `Bangla NLP` 🚀💙
 - 🌱 I’m currently learning Floriography
 - 👯 I’m looking to collaborate on a Go Open-Source project! ✌😁
 - 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
