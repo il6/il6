@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a Go Open-Source project! ✌😁
 - 📫 How to reach me: send me an email
 - 😄 Pronouns: He/Him
-
-![visitors](https://page-views.glitch.me/badge?page_id=il6.visitor-badge)  
