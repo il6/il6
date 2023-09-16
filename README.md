@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:  
 
-- 💻 I’m the Founder & CEO at `Hackules Limited`
+- 💻 I’m the founder & CEO of `Hackules Limited`
 - 🎓 I studied Physics at Shahjalal University of Science and Technology (`SUST`)
 - 🧑‍💻 Coding is my passion
 - 🔭 I’m currently working on `Bangla NLP & GenAI` 🚀💙
