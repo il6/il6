@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🧑‍💻 Coding is my passion
 - 🔭 I’m currently working on `Bangla NLP & GenAI` 🚀💙
 - 🌱 I’m currently learning Floriography
-- 👯 I’m looking to collaborate on a Go Open-Source project! ✌😁
-- 📫 How to reach me: send me an email
+- 👯 I’m looking to collaborate on a GenAI project! ✌😁
+- 📫 How to reach me: send me an email (`ragib@hackules.com`)
 - 😄 Pronouns: He/Him
